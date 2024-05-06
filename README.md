@@ -1,10 +1,10 @@
 ### Olá! Eu sou a Beatriz Vencio, estudante de Ciência de Dados e Machine Learning!
 
 <a href="https://github.com/BeatrizVencio/github-readme-stats">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=BeatrizVencio&show_icons=true&count_private=true&show_icons=true&theme=algolia" />
+  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=BeatrizVencio&show_icons=true&count_private=true&show_icons=true&theme=algolia" />
 </a>
 <a href="https://github.com/BeatrizVencio/convoychat">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeatrizVencio&layout=compact&langs_count=8&card_width=320&theme=algolia" />
+  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeatrizVencio&layout=compact&langs_count=8&card_width=320&theme=algolia" />
 </a>
 
 
