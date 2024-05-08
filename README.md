@@ -1,13 +1,37 @@
-### Olá! Eu sou a Beatriz Vencio, estudante de Ciência de Dados e Machine Learning!
+## *Hello there!* 👋 
 
-<a href="https://github.com/BeatrizVencio/github-readme-stats">
-  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=BeatrizVencio&show_icons=true&count_private=true&show_icons=true&theme=algolia" />
-</a>
-<a href="https://github.com/BeatrizVencio/convoychat">
-  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeatrizVencio&layout=compact&langs_count=8&card_width=320&theme=algolia" />
-</a>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1jNXd0OXE5bjFnOXJ6b3J3NjJhenh1N3o1dmJ2MXA4YnpxZ20zciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="250"/>
+<br>
+<br>
 
+💁‍♀️ &nbsp;My name is Beatriz Vencio.\
+🎓 &nbsp;In the process of graduating in Data Science and AI from UniCEUB.\
+⭐ &nbsp;You can find my projects in the repositories section.\
+💬 &nbsp;Feel free to connect with me.\
+🧩 &nbsp;Passionate about solving challenges.\
+😄 &nbsp;Pronouns: She/Her.\
+🌍 &nbsp;Curiosity: I love reading, learning new things and listening to music.
 
+<br>
+
+ ##
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img height="172em" alt="Beatriz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BeatrizVencio&count_private=true&show_icons=true&theme=algolia&bg_color"/>
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  <img height="172em" alt="Beatriz's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizVencio&layout=compact&langs_count=10&theme=algolia&bg_color"/>
+</details>
+
+<details>
+  <summary>:zap: Github Streak Stats</summary>
+  <img height="172em" alt="Beatriz's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=BeatrizVencio&theme=algolia&bg_color"/>
+</details>
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -16,7 +40,9 @@
   <img align="right" alt="Bia-Foto" height="160" width="150" src="https://cdn.discordapp.com/attachments/1237134264076865680/1237134468935057578/338224_LQNlXuiu.png?ex=663a8ac2&is=66393942&hm=c39a7cb1053a3d899a7c895136a6f00930b546b4c760840b30880b1540c4e0ad&" />
 </div>
 
+
 ## 
+
 
 <div> 
   <a href="https://www.instagram.com/beatriz_vencio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
