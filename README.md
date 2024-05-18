@@ -1,16 +1,16 @@
-## *Hello there!* 👋 
+## *Olá!!* 👋 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1jNXd0OXE5bjFnOXJ6b3J3NjJhenh1N3o1dmJ2MXA4YnpxZ20zciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="250"/>
 <br>
 <br>
 
-💁‍♀️ &nbsp;My name is Beatriz Vencio.\
-🎓 &nbsp;In the process of graduating in Data Science and AI from UniCEUB.\
-⭐ &nbsp;You can find my projects in the repositories section.\
-💬 &nbsp;Feel free to connect with me.\
-🧩 &nbsp;Passionate about solving challenges.\
-😄 &nbsp;Pronouns: She/Her.\
-🌍 &nbsp;Curiosity: I love reading, learning new things and listening to music.
+💁‍♀️ &nbsp;Meu nome é Beatriz Vencio.\
+🎓 &nbsp;Estou no processo de graduação em Ciência de Dados no UniCEUB.\
+⭐ &nbsp;Você pode achar meus projetos na seção de repositórios.\
+💬 &nbsp;Sinta-se livre para falar comigo.\
+🧩 &nbsp;Possuo paixão em resolver desafios.\
+😄 &nbsp;Pronomes: Ela/Dela.\
+🌍 &nbsp;Curiosidade: Eu amo ler, aprender coisas novas e ouvir música.
 
 <br>
 
